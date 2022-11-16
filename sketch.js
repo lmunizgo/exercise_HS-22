@@ -51,7 +51,7 @@ function drawTemperature(x, y) {
   fill('black');
   circle(x, y, 10);
 }
-x
+
 
 function draw() {
   background(20);
@@ -65,7 +65,7 @@ function draw() {
   textSize(22);
   noStroke();
   fill(255);
-  text('scroll horizontally to see all cities', 35, 95);
+  text('scroll horizontally to see further cities', 35, 95);
 
 
 
